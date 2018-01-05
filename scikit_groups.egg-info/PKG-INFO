@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: scikit-groups
+Version: 0.7
+Summary: An package for constructing finite abelian groups
+Home-page: https://github.com/smeths/scikit-groups
+Author: John Smethurst
+Author-email: johnsmethurst@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: scikit-groups
+        
+        A Package for the construction of finite abelian groups
+        
+Platform: UNKNOWN

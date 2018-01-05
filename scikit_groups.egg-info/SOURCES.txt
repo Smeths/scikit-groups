@@ -1,0 +1,10 @@
+MANIFEST.in
+README.txt
+setup.py
+scikit_groups.egg-info/PKG-INFO
+scikit_groups.egg-info/SOURCES.txt
+scikit_groups.egg-info/dependency_links.txt
+scikit_groups.egg-info/top_level.txt
+skgroups/__init__.py
+skgroups/groups.py
+skgroups/pure.py
