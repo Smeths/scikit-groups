@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: scikit-groups
-Version: 0.7
+Version: 0.8
 Summary: An package for constructing finite abelian groups
 Home-page: https://github.com/smeths/scikit-groups
 Author: John Smethurst
