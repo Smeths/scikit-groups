@@ -16,7 +16,7 @@ There are infinitely many ways to define a group. Therefore simplifying the proc
 
 2. Developing use cases and show casing interesting group applications
 
-Jupyter notebooks seem like the ideal tool for demonstrating the applications of our package. They allow for the combination of python code, latex, and advanced and interactive plotting tools in one document. Ideally we would like to create a number of use cases in this way.
+Jupyter notebooks seem like the ideal tool for demonstrating the applications of our package. They allow for the combination of python code, latex, and advanced and interactive plotting tools in one document. We aim to create a number of use cases in this way.
 
 3. Continuous integration test cases
 
