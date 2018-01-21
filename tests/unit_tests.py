@@ -1,4 +1,4 @@
-from scikit-groups import Group
+from skgroups import Group
 import unittest
 
 class TestCalc(unittest.TestCase):
