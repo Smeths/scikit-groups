@@ -6,7 +6,7 @@ setup(
     packages=find_packages(exclude=['tests*']),
     license='MIT',
     description='An package for constructing finite abelian groups',
-    long_description=open('README.txt').read(),
+    long_description=open('README.rst').read(),
     install_requires=[],
     url='https://github.com/smeths/scikit-groups',
     author='John Smethurst & Paul Bradley',
