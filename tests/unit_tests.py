@@ -9,7 +9,6 @@ class TestCalc(unittest.TestCase):
 
     def test_add(self):
         G = Group("add",10)
-        print(G.glist)
         self.assertEqual(G.glist,range(0,10))
 
     def test_mult(self):
